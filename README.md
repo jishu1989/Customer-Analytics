@@ -6,7 +6,7 @@ Before diving into Customer Analytics, its very important to understand basics o
 How products are marketed to consumers. Understanding the customer profiles, track behavior,predict their actions, taking actions to improve customer experience. So that they don't churn out and its possible for the company to retain their customers. 
 
 ### Marketing Framework:
-One of the fundamental marketing framework is: **Segmentation --> Targeting --> Positioning**. Its also known as STP Framework.
+One of the fundamental marketing framework is: **Segmentation --> Targeting --> Positioning**. Its also known as **STP Framework**.
 
 **Segmentation:** Groups having comparable purchase behavior with similar characteristics. The group's respond to similar marketing activity. Customers are segmented based on characteristics like income, age and gender. Segmentation is divided into two groups based on whether marketers are using consumer behavior data or not. If yes, they rely mainly on demographic and geographic customer data.e,g : Age income, education level and others. Else they depend on : psychographic characteristics. For example, some customers have a better planned buying behavior, while others more impulsive.  
 
@@ -21,7 +21,18 @@ One of the fundamental marketing framework is: **Segmentation --> Targeting --> 
 - Or more like what products can be offered to them that would have the characteristics closest to the ones they need?
 <img width="968" height="471" alt="image" src="https://github.com/user-attachments/assets/84e749ce-9adc-42fb-8492-c78d75f3c168" />
 
+Positioning concerns not only the characteristics of product should have, but also how it should be presented. For which there another *framework* of its own **Marketing Mix**.
+
 ### Marketing Mix:
+
+This framework helps develop the best product and offer it at right price through right channels.
+
+- Purchase Probability : Will the customer buy a product from a particular product category when they enter the shop?
+- Brand Choice Probability : Which brand is the customer going to choose?
+- Purchase Quantity : How many units is the customer going to purchase?  
+
+<img width="637" height="533" alt="image" src="https://github.com/user-attachments/assets/e7e1fa20-2000-4147-90a4-389922a09a35" />
+
 
 
 
